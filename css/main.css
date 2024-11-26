@@ -245,7 +245,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 0 8%;
-  background: url(image/ABOUT_BACKGROUND.jpg);
+  background: url(/image/ABOUT_BACKGROUND.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
